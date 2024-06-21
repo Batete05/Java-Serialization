@@ -1,0 +1,2 @@
+Easy:Java was designed  to be easy for the professional programmer to learn and use effectively.
+Object Oriented: Java brought ”Everything is an Object” paradigm
